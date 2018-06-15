@@ -1,7 +1,8 @@
-
 # -*- coding: utf-8 -*-
+from builtins import input
 from biorhythm import studyStudents
 import datetime
+
 
 def previous_and_next(iterable):
     iterator = iter(iterable)
@@ -151,7 +152,10 @@ def get_input():
     print("Enter the birthday of your students in format year-month-day\n")
     while prompt == "y":
         b = input(">>>")
+        b = str(b)
+        
         splitted = b.split("-")
+
         birthday.append( (int(splitted[0]), int(splitted[1]), int(splitted[2]) ))
         prompt = input("\nDo you want to input more?(y/n):")
     return birthday
