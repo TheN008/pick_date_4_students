@@ -9,7 +9,7 @@
 
 # What is this all about?
   This tool is based on biorhythms, that is pseudo-science. 
-  It calculates when your students are most intelligent and then suggests you to teach them advanced topic at the moment when their intelligent ability is increasing.
+  It calculates when your students are most intelligent and then suggests you to teach them advanced topic at the moment when their intelligent ability is increasing. Keep in mind that this is pseudo-scientific. 
   
 
 
