@@ -11,5 +11,9 @@
   This tool is based on biorhythms, that is pseudo-science. 
   It calculates when your students are most intelligent and then suggests you to teach them advanced topic at the moment when their intelligent ability is increasing.
   
+
+# Thanks 
+  The <a href="https://math.stackexchange.com/questions/2819171/how-to-find-extent-of-function-inputs-where-all-of-its-outputs-are-positive/2820392#2820392"> people</a> in the comment really helped me out in the trig stuff. 
+
 # Credits
-  Mary Jane Sterling
+  Mary Jane Sterling (Book author)
