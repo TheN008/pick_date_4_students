@@ -12,8 +12,14 @@
   It calculates when your students are most intelligent and then suggests you to teach them advanced topic at the moment when their intelligent ability is increasing.
   
 
+
+# Bonus
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Biorhythm-EN.svg/1920px-Biorhythm-EN.svg.png"> </img> The blue curve represents one's intellectual ability throughout their days since birth. This may vary but atleast you can assume that our behaviours repeat over-and-over like value of sinusodial functions.
+
 # Thanks 
   <a href="https://math.stackexchange.com/questions/2819171/how-to-find-extent-of-function-inputs-where-all-of-its-outputs-are-positive/2820392#2820392"> People</a> on the comment really helped me out in the trig stuff. 
 
 # Credits
   Mary Jane Sterling (Book author)
+
