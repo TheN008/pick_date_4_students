@@ -2,7 +2,7 @@ import datetime
 from trigonometry import trigonometry
 import math
 
-class studyStudents(object):
+class calculator(object):
 
     def __init__(self, birthDay=(0,0,0)):
 
