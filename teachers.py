@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from builtins import input
-from biorhythm import studyStudents
+from biorhythm import calculator
 import datetime
 
 
@@ -18,7 +18,7 @@ def previous_and_next(iterable):
 class pick_date(object):
     
         def __init__(self, input_data):
-            self.ss = studyStudents()
+            self.ss = calculator()
             self.data = input_data
             self.today = datetime.datetime.today()
             output_datas = []
